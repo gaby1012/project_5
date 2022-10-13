@@ -1,0 +1,6 @@
+#all `.rds` files in the `output` directory
+output/*.rds
+
+#all `.html` files in the project directory
+*.html
+
